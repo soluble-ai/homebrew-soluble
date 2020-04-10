@@ -1,6 +1,6 @@
 cask 'soluble' do
-  version '0.3.7'
-  sha256 '4c76d5a838512da1f99a6d77c492f3c8eb217634df62edc30dbeb960ae3e7a02'
+  version '0.3.8'
+  sha256 '3a2b96bbfd64ebec101390fa93ba9ae7ecc812a0eaad39d4df95ebeee50520dc'
 
   # storage.googleapis.com/storage/v1/b/soluble-public/o/cli was verified as official when first introduced to the cask
   url "https://storage.googleapis.com/storage/v1/b/soluble-public/o/cli%2Fv#{version}%2Fsoluble_v#{version}_darwin_amd64.tar.gz?alt=media"
