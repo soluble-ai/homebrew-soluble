@@ -2,6 +2,10 @@
 
 ## How do I install the CLI?
 
+`brew install soluble-ai/soluble/soluble-cli`
+
+The binary cask can be installed with:
+
 `brew cask install soluble-ai/soluble/soluble`
 
 ## Documentation
