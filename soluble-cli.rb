@@ -1,8 +1,8 @@
 class SolubleCli < Formula
   desc "Command-line interface for Soluble"
   homepage "https://soluble.ai"
-  url "https://github.com/soluble-ai/soluble-cli/archive/v0.4.19.tar.gz"
-  sha256 "103f401cd7336f386b3e11aa373099e5712b3aff736464d751310aa6e256422f"
+  url "https://github.com/soluble-ai/soluble-cli/archive/v0.4.20.tar.gz"
+  sha256 "c3383b8154da856600d9a19cee20c93d80a690313c311550bbe4bbc0c0a10bf1"
 
   depends_on "go@1.14" => :build
 
