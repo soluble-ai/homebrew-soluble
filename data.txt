@@ -1,1 +1,0 @@
-https://github.com/soluble-ai/soluble-cli/archive/v0.5.10.tar.gz
