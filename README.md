@@ -2,11 +2,14 @@
 
 ## How do I install the CLI?
 
-`brew install soluble-ai/soluble/soluble-cli`
+The CLI is installed from the binary cask as follows:
 
-The binary cask can be installed with:
+`brew update`
+`brew install --cask soluble-ai/soluble/soluble`
 
-`brew cask install soluble-ai/soluble/soluble`
+or to upgrade
+
+`brew upgrade --cask soluble-ai/soluble/soluble`
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
