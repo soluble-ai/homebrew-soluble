@@ -1,6 +1,6 @@
 cask 'soluble' do
-  version '0.6.2'
-  sha256 '7ec28f3af72a9fd6f0c050d975da42dcc567fdde45538e6064b8617fff33b3f3'
+  version '0.6.3'
+  sha256 'd424d8e61e026728772c9c475109ff386e332d9bc71a4b3e63e8d80d483a1773'
 
   url "https://github.com/soluble-ai/soluble-cli/releases/download/v#{version}/soluble_v#{version}_darwin_amd64.tar.gz"
   name 'Lacework Soluble Command Line Interface'
